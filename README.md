@@ -62,7 +62,7 @@ Default: []
 
 An array supplied to the filtering function. Can be a list of strings or a list of arbitrary objects. In the latter case, `filterOption` and `displayOption` should be provided.
 
-#### props.defaultValue
+#### props.initialValue
 
 Type: `String`
 
